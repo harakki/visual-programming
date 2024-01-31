@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1", "lab1\lab1.csproj", "{86187AE0-235C-4F31-884A-6F808EB406A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework 1. Class diagrams", "Homework 1. Class diagrams\Homework 1. Class diagrams.csproj", "{86187AE0-235C-4F31-884A-6F808EB406A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

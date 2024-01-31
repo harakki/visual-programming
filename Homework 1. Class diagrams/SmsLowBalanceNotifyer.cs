@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace lab1;
+namespace Homework_1_Class_diagrams;
 
 public class SmsLowBalanceNotifyer : INotifyer
 {
