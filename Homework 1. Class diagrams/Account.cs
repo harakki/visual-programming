@@ -25,7 +25,7 @@ public class Account
 
     public void ChangeBalance(decimal value)
     {
-        Balance = value;
+        Balance += value;
         Notification();
     }
 

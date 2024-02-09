@@ -13,6 +13,6 @@ internal static class Program
         catBankAccount.AddNotifyer(newSmsSubscription);
 
         /* Fish Toys. Покупка на сумму 59 Cat. 30 января 2024, 21:27 */
-        catBankAccount.ChangeBalance(41);
+        catBankAccount.ChangeBalance(-59);
     }
 }
